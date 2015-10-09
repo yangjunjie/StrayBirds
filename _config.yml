@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /StrayBirds
+url: /yangjunjieblog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -108,9 +108,9 @@ customLinks:
     message: 其他相关链接
 
 #comment config
-disqus:
-  config: false
-  id: minixalpha
+# disqus:
+  # config: false
+  # id: minixalpha
 
 
 #################################### global configure #######################################
