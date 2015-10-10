@@ -115,7 +115,7 @@ customLinks:
 #################################### global configure #######################################
 
 username: yangjunjie
-baseurl: /
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
