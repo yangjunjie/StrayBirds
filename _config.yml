@@ -115,7 +115,7 @@ customLinks:
 #################################### global configure #######################################
 
 username: yangjunjie
-baseurl: "/"
+baseurl: "ouyangjunjie.com"
 markdown: redcarpet
 safe: false
 highlighter: pygments
