@@ -5,8 +5,8 @@ category: 技术
 comments: true
 ---
 
-# 基本代码安全知识【转载】
 
+# 基本代码安全知识
 
 ### 1.防止SQL注入
 
