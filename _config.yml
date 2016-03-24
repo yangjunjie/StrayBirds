@@ -45,7 +45,7 @@ timezone:      null
 #Site config
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
-keywords:javascript,node,jquery,git,python,java,sql,linux,ios,android,教程,软件,编程,开发,运维,云计算,网络,互联网
+keywords:java,yangjunjie
 url: ouyangjunjie.com
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
