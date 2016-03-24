@@ -26,7 +26,7 @@ unpublished:  false
 
 # Conversion
 markdown:     kramdown
-highlighter:  pygments
+highlighter:  rouge
 lsi:          false
 excerpt_separator: "\n\n"
 
@@ -44,8 +44,8 @@ timezone:      null
 
 #Site config
 title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: java
+#description: Just another Jekyll theme design and code by zhanxin.info.
+#keywords: java
 url: ouyangjunjie.com
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -118,9 +118,10 @@ username: yangjunjie
 baseurl: ""
 markdown: redcarpet
 safe: false
-highlighter: pygments
+highlighter: rouge
 title: 阳俊杰的官方网站
 description: java程序员的生活技术记录册
+keywords: java
 theme: kunka
 #disqusname: minixalpha
 
