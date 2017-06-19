@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 #description: Just another Jekyll theme design and code by zhanxin.info.
 #keywords: java
-url: ouyangjunjie.com
+url: /blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -70,7 +70,9 @@ author:
     imageLink: http://i11.tietuku.com/ce778c4938b3c7e2.jpg
     simpleIntro: 我是阳俊杰
     detailIntro:
-      <p>阳俊杰，男，一个90后java程序猿，13年入行，从业近两年了。</p>
+      <p>曾就职就医160，怡亚通等知名上市公司。有丰富的互联网项目开发经验。
+      擅长Java前后端开发，熟悉高并发、大数据量软件
+      </p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
@@ -115,7 +117,7 @@ customLinks:
 #################################### global configure #######################################
 
 username: yangjunjie
-baseurl: ""
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: rouge
